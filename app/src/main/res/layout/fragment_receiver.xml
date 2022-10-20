@@ -10,7 +10,9 @@
         android:id="@+id/txtView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:gravity="center"
         android:text="리시버"
-        android:textAlignment="center" />
+        android:textAlignment="gravity"
+        android:textSize="48sp" />
 
 </FrameLayout>
